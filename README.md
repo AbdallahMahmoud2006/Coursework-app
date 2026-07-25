@@ -14,6 +14,12 @@ A small calendar and notes web app for managing semesters, subjects, tasks, even
 - Frontend: React + Vite
 - Data storage: file-based or database (configurable)
 
+## Engineering practices
+- Built using software engineering fundamentals: modular design, separation of concerns, and RESTful API principles.
+- Development followed Agile practices (sprint-based iterations, user stories, backlog refinement).
+- Emphasis on incremental delivery, code review, and testability to keep the codebase maintainable and extensible.
+
+
 ## Repo layout
 
 - backend/ — Express server and API routes
