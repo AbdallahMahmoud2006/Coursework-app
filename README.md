@@ -117,7 +117,4 @@ This project is provided as-is. Add a LICENSE file if you want to specify terms.
 
 ---
 
-If you want, I can: add a minimal `.env.example`, wire a sample SQLite or MongoDB config, or add npm scripts for combined start. Which would you like next?
-
-
 Copyright © 2026 Abdallah Mahmoud. All rights reserved.
