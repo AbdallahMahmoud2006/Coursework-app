@@ -1,6 +1,6 @@
 # Notes Calendar App
 
-A small calendar and notes web app for managing semesters, subjects, tasks, events, and grade items. This repository contains a Node/Express backend and a Vite + React frontend.
+A small calendar and notes web app for German International University (GIU) students. This app manages semesters, subjects, tasks, events, and grade items. This repository contains a Node/Express backend and a Vite + React frontend.
 
 ## Features
 - Calendar view with weeks and day detail
